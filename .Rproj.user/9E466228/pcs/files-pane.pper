@@ -1,0 +1,9 @@
+{
+    "path" : "~/ffun/man",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
